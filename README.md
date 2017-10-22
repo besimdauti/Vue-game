@@ -5,13 +5,8 @@
 ## Build Setup
 
 ``` bash
-First you need to have vue-cli installed globaly.
+# Download & unzip files
 
-Prerequisites: Node.js (>=4.x, 6.x preferred), npm version 3+ and Git.
-
-$ npm install -g vue-cli
-
-``` bash
 # install dependencies
 npm install
 
